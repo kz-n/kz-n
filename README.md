@@ -1,5 +1,5 @@
-java, python and JS developer ____________
+java, python and GDScript developer
 
-|  **discord**: kz-n#0001 (469817786420559872)
+|  **discord**: kz-n#2002 (469817786420559872)
 
 |  **email**: me@kz-n.net
