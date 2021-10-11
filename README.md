@@ -1,5 +1,1 @@
-java, python and GDScript developer
-
-|  **discord**: kz-n#2002 (469817786420559872)
-
-|  **email**: me@kz-n.net
+[![kz-n's GitHub stats](https://github-readme-stats.vercel.app/api?username=kz-n)]()
