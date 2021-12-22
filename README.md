@@ -9,7 +9,36 @@
 
 <div align=left> <h2></h2></div>
 
-<div align=left><h2>currently working at:<br>https://github.com/EarthlySMP<br>https://github.com/VoxelClient</h2></div>
+<div align=left><h2>currently working at:<br><br><a href="https://github.com/EarthlySMP">@EarthlySMP</a>
+<br><a href="https://github.com/VoxelClient">@VoxelClient</a></div>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="180">![](https://github-readme-stats.vercel.app/api?username=kz-n&bg_color=90,ffcc72,ffefba&title_color=4d2824&text_color=4d2824&border_color=4d2824)
 <p align=center>check the source of this file to see how to center it this way</p>
+
+<div align=left> <h2></h2></div>
+<div align=right><h2>notable projects</h2></div>
+<div align=center><p>(most of my work is private)</p></div>
+<h2 align=center>
+  <a href="https://github.com/EarthlySMP/staff-tools">StaffTools</a>
+  <br>
+  A set of tools for staff duties made for Bukkit.
+</h2>
+<h2 align=center>
+  <a href="https://github.com/EarthlySMP/Draelcord">Draelcord (Java)</a>
+  <br>
+  JDA Discord bot for the <a href="https://www.draelcraft.net">Draelcraft</a> network.
+</h2>
+<h2 align=center>
+  <a href="https://github.com/EarthlySMP/CaughtIn4K">Ci4K</a>
+  <br>
+  Advanced automatic replay system for the <a href="https://www.draelcraft.net">Draelcraft</a> network.
+</h2>
+<h2 align=center>
+  <a href="https://github.com/EarthlySMP/Towny2Json">Towny2Json</a>
+  <br>
+  Java based api for Towny Minecraft servers.
+  <br>
+  <p align=center>
+    Originally made by <a href="https://github.com/smartfrigde">@smartfrigde</a>.
+  </p>
+</h2>
