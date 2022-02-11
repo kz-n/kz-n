@@ -13,6 +13,9 @@
   <h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="100" height=1>currently working at:
     <br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="100" height=1><a href="https://github.com/EarthPol">@EarthPol
+    </a>
+    <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="100" height=1><a href="https://github.com/EarthlySMP">@EarthlySMP
     </a>
     <br>
