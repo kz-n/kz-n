@@ -1,5 +1,4 @@
-<div align=right><h2> <img align=left src="https://i.imgur.com/xSZkMEv.png" width="80" height="27.2"><a href="mailto:kz-n.contact@protonmail.com">kz-n.contact@protonmail.com</a><br>won't respond before 13:00+0200</h2>
-</div>
+<div align=right><h2> <img align=left src="https://i.imgur.com/xSZkMEv.png" width="80" height="27.2">
 
 <h3 align=center>what i do</h3>
 
