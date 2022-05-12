@@ -8,8 +8,7 @@
 
 <div align=left> <h2></h2></div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" width="180">![](https://github-readme-stats.vercel.app/api?username=kz-n&bg_color=90,ffcc72,ffefba&title_color=4d2824&text_color=4d2824&border_color=4d2824)
-<p align=center>check the source of this file to see how to center it this way</p>
+![](https://github-readme-stats.vercel.app/api?username=kz-n&bg_color=90,ffcc72,ffefba&title_color=4d2824&text_color=4d2824&border_color=4d2824)
 
 <div align=left> <h2></h2></div>
 <div align=center>
