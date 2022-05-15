@@ -2,9 +2,9 @@
 
 <h3 align=center>what i do</h3>
 
-<div align=center>java - python  - C# - gdscript</div>
+<div align=center>java - python  - gdscript</div>
 
-<div align=center>2 years - 4 years - 4 months - 4 years</div>
+<div align=center>2 years - 4 years - 4 years</div>
 
 <div align=left> <h2></h2></div>
 
