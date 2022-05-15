@@ -1,41 +1,7 @@
 <div align=right><h2> <img align=left src="https://i.imgur.com/xSZkMEv.png" width="80" height="27.2">
 
-<h3 align=center>what i do</h3>
+<h3 align=center></h3>
 
 <div align=center>java - python  - gdscript</div>
 
-<div align=center>2 years - 4 years - 4 years</div>
-
-<div align=left> <h2></h2></div>
-
-![](https://github-readme-stats.vercel.app/api?username=kz-n&bg_color=90,ffcc72,ffefba&title_color=4d2824&text_color=4d2824&border_color=4d2824)
-
-<div align=left> <h2></h2></div>
-<div align=center>
-  <h2><p></p>
-    notable projects<p></p></h2><br></div>
-<div align=center><p>(most of my work is private)</p></div>
-<h2 align=center>
-  <a href="https://github.com/EarthlySMP/staff-tools">StaffTools</a>
-  <br>
-  A set of tools for staff duties made for Bukkit.
-</h2>
-<h2 align=center>
-  <a href="https://github.com/EarthlySMP/Draelcord">Draelcord (Java)</a>
-  <br>
-  JDA Discord bot for the <a href="https://www.draelcraft.net">Draelcraft</a> network.
-</h2>
-<h2 align=center>
-  <a href="https://github.com/EarthlySMP/CaughtIn4K">Ci4K</a>
-  <br>
-  Advanced automatic replay system for the <a href="https://www.draelcraft.net">Draelcraft</a> network.
-</h2>
-<h2 align=center>
-  <a href="https://github.com/EarthlySMP/Towny2Json">Towny2Json</a>
-  <br>
-  Java based api for Towny Minecraft servers.
-  <br>
-  <p align=center>
-    Originally made by <a href="https://github.com/smartfrigde">@smartfrigde</a>.
-  </p>
-</h2>
+<img align=center src="https://cdn.discordapp.com/attachments/927984434941145134/975183168053346304/caption_1.gif" width="180" height="67.2"> <img align=center src="https://media.discordapp.net/attachments/927984434941145134/971955121711898634/unknown.png" width="180" height="67.2"> <img align=center src="https://cdn.discordapp.com/attachments/927984434941145134/970060973249560626/caption.png" width="180" height="67.2"> <img align=center src="https://cdn.discordapp.com/attachments/927984434941145134/970031602174402600/caption.png" width="180" height="67.2"> <img align=center src="https://cdn.discordapp.com/attachments/927984434941145134/966136136177180682/speed.gif" width="180" height="67.2"> <br> <img align=center src="https://cdn.discordapp.com/attachments/927984434941145134/963497833850343534/caption.gif" width="180" height="67.2">
