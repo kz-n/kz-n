@@ -1,1 +1,1 @@
-![](https://c.tenor.com/27JM6mGYDxcAAAAC/frog-loop.gif)
+![](http://cssbox.sourceforge.net/webvector/examples/output.svg)
